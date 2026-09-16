@@ -1,5 +1,13 @@
 ## Change Log
 
+### v5.0.0-alpha.9 (2026-09-16)
+
+#### Changes
+
+- [#4538](https://github.com/less/less.js/pull/4538) docs: add a Less 5 alpha feature-status page (@matthew-dean)
+- [#4537](https://github.com/less/less.js/pull/4537) chore: release v5.0.0-alpha.8 (@app/github-actions)
+
+
 ### v5.0.0-alpha.8 (2026-09-15)
 
 #### Changes
